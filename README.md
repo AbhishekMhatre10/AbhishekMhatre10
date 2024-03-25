@@ -1,5 +1,8 @@
-### Hi there 👋
-
+👋 Hi, I’m Abhishek Mhatre
+👀 I’m interested in Software Developement
+🌱 I’m currently learning for Master's in Computer Science from Binghamton University
+📫 How to reach me contact me through LinkedIn. I am active on it.
+😄 Pronouns: he/him
 <!--
 **AbhishekMhatre10/AbhishekMhatre10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
